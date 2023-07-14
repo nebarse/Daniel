@@ -1,9 +1,15 @@
 ---
-title: "About Me"
+title: "Daniel Amare"
+image: img/Daniel.jpg
 about:
-  id: me
-  template: broadside
-  image: img/profile.png
+  template: solana
+  image-shape: round
+  image-width: 28em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in//
+    - text: Email
+      href: mailto:d.desalegn.com
 ---
 
 :::{#me}
