@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hardware Engineer at Mozarc.\nBorn in Ethiopia.\nMoved to Minnesota in 2018 with my wife and three kids.\nHighly interested in new innovations.\nSkilled in electronics, biomedical engineering, embedded systems\nand industrial automation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Daniel Amare",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "B.Sc in Electrical and Computer Engineering\nAddis Ababa University| Addis Ababa, Ethiopia\n\n\n\nHardware Engineer\nMedtronic, Minneapolis, Minnesota | July 2022-Present\nDesign Tech III\nMedtronic, Minneapolis, Minnesota | April 2021-June 2022\nR&D Engineering Tech\nMedtronic, Minneapolis, Minnesota | March 2019-April 2021\nSenior Engineering Tech\nDatamatics@ Honeywell Aerospace,Minneapolis,Minnesota | October\n2018-December 2018\nSenior System Intergration Engineer\nADC research & Development plc | Addis Ababa, Ethiopia |January 2012-July 2018\nElectrical Expert\nADC research & Development plc | Addis Ababa, Ethiopia |August 2007-December 2011\nBiomedical Equipment Engineer Tech\nICON center for Special Surgery part-time | Addis Ababa, Ethiopia|December 2011 - July 2008\nSenior Electrical and Biomed Technician\nSalaM Healthcare| Addis Ababa, Ethiopia| May1999-September 2007\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Amare",
+    "section": "",
+    "text": "B.Sc in Electrical and Computer Engineering\nAddis Ababa University| Addis Ababa, Ethiopia"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Daniel Amare",
+    "section": "",
+    "text": "Hardware Engineer\nMedtronic, Minneapolis, Minnesota | July 2022-Present\nDesign Tech III\nMedtronic, Minneapolis, Minnesota | April 2021-June 2022\nR&D Engineering Tech\nMedtronic, Minneapolis, Minnesota | March 2019-April 2021\nSenior Engineering Tech\nDatamatics@ Honeywell Aerospace,Minneapolis,Minnesota | October\n2018-December 2018\nSenior System Intergration Engineer\nADC research & Development plc | Addis Ababa, Ethiopia |January 2012-July 2018\nElectrical Expert\nADC research & Development plc | Addis Ababa, Ethiopia |August 2007-December 2011\nBiomedical Equipment Engineer Tech\nICON center for Special Surgery part-time | Addis Ababa, Ethiopia|December 2011 - July 2008\nSenior Electrical and Biomed Technician\nSalaM Healthcare| Addis Ababa, Ethiopia| May1999-September 2007"
   }
 ]

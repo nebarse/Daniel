@@ -3,25 +3,32 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Daniel Amare"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - about.qmd
+     
     tools:
       - icon: twitter
         href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+    background: warning
+    foreground: danger
+    search: true
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Daniel Amare"
+    background: light
 
 format:
   html:
-    theme: cerulean
+    theme: 
+      light: minty
+      dark: slate
+    css: styles.css
+    page-layout: full
     toc: true
 
-editor: source
+editor: visual
 
