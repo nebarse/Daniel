@@ -1,11 +1,23 @@
 ---
 title: "About"
+image: img/ethiopia
+about:
+  template: solana
+  image-shape: round
+  image-width: 28em
+links: 
+    - text: Ethiopia
+      href: https://en.m.wikipedia.org/wiki
 ---
 
-Hardware Engineer at Mozarc.
+- Hardware Engineer at Mozarc.
 
-Born in Ethiopia. 
+- Born in Ethiopia. 
 
-Moved to Minnesota in 2018 with my wife and three kids.
+- Moved to Minnesota in 2018 with my wife and three kids.
 
-Highly interested in new innovations and AI technologies.
+- Highly interested in new innovations.
+
+- Skilled in electronics, biomedical engineering, embedded systems 
+
+   and industrial automation

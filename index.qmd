@@ -7,9 +7,9 @@ about:
   image-width: 28em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in//
+      href: https://www.linkedin.com/in/daniel-amare-b8a1a885/
     - text: Email
-      href: mailto:d.desalegn.com
+      href: mailto:d.desalegn@yahoo.com
 ---
 
 :::{#me}
@@ -18,8 +18,47 @@ about:
 
 ## Education
 
+**B.Sc in Electrical and Computer Engineering**
+
+Addis Ababa University| Addis Ababa, Ethiopia
+
+
+
 ## Experience
 
+**Hardware Engineer**
+
+Medtronic, Minneapolis, Minnesota | July 2022-Present
+
+**Design Tech III**
+
+Medtronic, Minneapolis, Minnesota | April 2021-June 2022
+
+**R&D Engineering Tech**
+
+Medtronic, Minneapolis, Minnesota | March 2019-April 2021
+
+**Senior Engineering Tech**
+
+Datamatics@ Honeywell Aerospace,Minneapolis,Minnesota | October
+
+2018-December 2018
+
+**Senior System Intergration Engineer** 
+
+ADC research & Development plc | Addis Ababa, Ethiopia |January 2012-July 2018
+
+**Electrical  Expert**
+
+ADC research & Development plc | Addis Ababa, Ethiopia |August 2007-December 2011
+
+**Biomedical Equipment Engineer Tech**
+
+ICON center for Special Surgery part-time | Addis Ababa, Ethiopia|December 2011 - July 2008
+
+**Senior Electrical and Biomed Technician**
+
+SalaM Healthcare| Addis Ababa, Ethiopia| May1999-September 2007
 :::
 
 Thanks for checking out my web site!
